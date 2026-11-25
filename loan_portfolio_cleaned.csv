@@ -1,0 +1,51 @@
+Loan_ID,Issue_Date,Issue_Year,Loan_Amount,Term_Months,Interest_Rate,Grade,Purpose,Annual_Income,Income_Band,DTI,Home_Ownership,Employment_Years,State,Loan_Status,Outstanding_Balance,Default_Flag,NPL_Flag,Issue_Month,Issue_Quarter,Loan_Amount_Band,Balance_to_Original_Ratio,Risk_Flag,Data_Quality_Note
+LN001,2020-05-24,2020,101600,36,0.295,G,Credit Card Refinance,42000,40-70K,0.184,Rent,9,TX,Charged Off,59502,1,0,2020-05,2020Q2,$100K-$150K,0.5856496062992126,1,Source values retained; derived fields added
+LN002,2020-06-22,2020,121000,36,0.137,C,Debt Consolidation,66000,40-70K,0.188,Own,7,WA,Fully Paid,0,0,0,2020-06,2020Q2,$100K-$150K,0.0,0,Source values retained; derived fields added
+LN003,2020-07-07,2020,118400,36,0.064,A,Debt Consolidation,61000,40-70K,0.259,Own,7,FL,Fully Paid,0,0,0,2020-07,2020Q3,$100K-$150K,0.0,0,Source values retained; derived fields added
+LN004,2020-07-18,2020,57800,36,0.062,A,Home Improvement,147000,100K+,0.136,Rent,10,PA,Fully Paid,0,0,0,2020-07,2020Q3,$50K-$100K,0.0,0,Source values retained; derived fields added
+LN005,2020-11-04,2020,32200,36,0.102,B,Small Business,191000,100K+,0.188,Mortgage,7,NC,Current,9978,0,0,2020-11,2020Q4,Under $50K,0.3098757763975155,0,Source values retained; derived fields added
+LN006,2020-11-13,2020,84000,36,0.157,C,Debt Consolidation,121000,100K+,0.316,Mortgage,5,CA,Fully Paid,0,0,0,2020-11,2020Q4,$50K-$100K,0.0,0,Source values retained; derived fields added
+LN007,2021-02-07,2021,67200,60,0.105,B,Credit Card Refinance,63000,40-70K,0.22,Mortgage,8,NC,Fully Paid,0,0,0,2021-02,2021Q1,$50K-$100K,0.0,0,Source values retained; derived fields added
+LN008,2021-04-02,2021,79700,60,0.077,A,Debt Consolidation,80000,70-100K,0.313,Own,2,PA,Late (31-120),65710,0,1,2021-04,2021Q2,$50K-$100K,0.8244667503136763,1,Source values retained; derived fields added
+LN009,2021-04-25,2021,109600,36,0.296,G,Small Business,44000,40-70K,0.326,Mortgage,2,FL,Charged Off,72768,1,0,2021-04,2021Q2,$100K-$150K,0.6639416058394161,1,Source values retained; derived fields added
+LN010,2021-05-13,2021,71500,36,0.264,F,Debt Consolidation,74000,70-100K,0.05,Mortgage,4,TX,Fully Paid,0,0,0,2021-05,2021Q2,$50K-$100K,0.0,0,Source values retained; derived fields added
+LN011,2021-06-30,2021,45600,36,0.143,C,Home Improvement,31000,Under 40K,0.292,Rent,1,GA,Fully Paid,0,0,0,2021-06,2021Q2,Under $50K,0.0,0,Source values retained; derived fields added
+LN012,2021-08-03,2021,155800,60,0.289,G,Car,138000,100K+,0.15,Rent,7,FL,Fully Paid,0,0,0,2021-08,2021Q3,$150K+,0.0,0,Source values retained; derived fields added
+LN013,2021-09-02,2021,61300,36,0.186,D,Car,88000,70-100K,0.341,Mortgage,2,CA,Charged Off,44029,1,0,2021-09,2021Q3,$50K-$100K,0.7182544861337683,1,Source values retained; derived fields added
+LN014,2021-09-14,2021,55100,36,0.105,B,Debt Consolidation,200000,100K+,0.317,Mortgage,5,WA,Fully Paid,0,0,0,2021-09,2021Q3,$50K-$100K,0.0,0,Source values retained; derived fields added
+LN015,2021-10-03,2021,67300,36,0.14,C,Small Business,21000,Under 40K,0.119,Rent,7,TX,Fully Paid,0,0,0,2021-10,2021Q4,$50K-$100K,0.0,0,Source values retained; derived fields added
+LN016,2021-11-18,2021,33000,36,0.213,E,Credit Card Refinance,41000,40-70K,0.166,Mortgage,9,WA,Charged Off,16613,1,0,2021-11,2021Q4,Under $50K,0.5034242424242424,1,Source values retained; derived fields added
+LN017,2021-11-29,2021,66800,60,0.133,C,Debt Consolidation,45000,40-70K,0.241,Mortgage,7,IL,Late (31-120),39050,0,1,2021-11,2021Q4,$50K-$100K,0.5845808383233533,1,Source values retained; derived fields added
+LN018,2021-12-01,2021,102000,36,0.261,F,Debt Consolidation,94000,70-100K,0.196,Mortgage,4,NY,Charged Off,70714,1,0,2021-12,2021Q4,$100K-$150K,0.6932745098039216,1,Source values retained; derived fields added
+LN019,2021-12-02,2021,61900,60,0.069,A,Debt Consolidation,49000,40-70K,0.124,Rent,8,FL,Fully Paid,0,0,0,2021-12,2021Q4,$50K-$100K,0.0,0,Source values retained; derived fields added
+LN020,2022-02-16,2022,116300,36,0.103,B,Credit Card Refinance,88000,70-100K,0.09300000000000001,Own,9,WA,Charged Off,78898,1,0,2022-02,2022Q1,$100K-$150K,0.6784006878761822,1,Source values retained; derived fields added
+LN021,2022-04-06,2022,65700,36,0.179,D,Small Business,92000,70-100K,0.109,Mortgage,8,CA,Current,31980,0,0,2022-04,2022Q2,$50K-$100K,0.4867579908675799,0,Source values retained; derived fields added
+LN022,2022-04-08,2022,41300,36,0.263,F,Other,31000,Under 40K,0.247,Rent,0,IL,Charged Off,27990,1,0,2022-04,2022Q2,Under $50K,0.6777239709443099,1,Source values retained; derived fields added
+LN023,2022-04-26,2022,177000,36,0.215,E,Small Business,53000,40-70K,0.179,Mortgage,10,WA,Charged Off,98379,1,0,2022-04,2022Q2,$150K+,0.5558135593220339,1,Source values retained; derived fields added
+LN024,2022-05-28,2022,40000,36,0.119,C,Other,57000,40-70K,0.305,Rent,1,CA,Late (31-120),16865,0,1,2022-05,2022Q2,Under $50K,0.421625,1,Source values retained; derived fields added
+LN025,2022-07-12,2022,80000,60,0.187,D,Small Business,268000,100K+,0.29,Mortgage,2,CA,Charged Off,60730,1,0,2022-07,2022Q3,$50K-$100K,0.759125,1,Source values retained; derived fields added
+LN026,2022-08-09,2022,53800,36,0.079,A,Credit Card Refinance,187000,100K+,0.274,Mortgage,9,OH,Fully Paid,0,0,0,2022-08,2022Q3,$50K-$100K,0.0,0,Source values retained; derived fields added
+LN027,2022-09-12,2022,97900,36,0.29,G,Home Improvement,35000,Under 40K,0.271,Mortgage,10,FL,Charged Off,50314,1,0,2022-09,2022Q3,$50K-$100K,0.5139325842696629,1,Source values retained; derived fields added
+LN028,2022-09-29,2022,64800,36,0.255,F,Debt Consolidation,154000,100K+,0.206,Mortgage,9,PA,Fully Paid,0,0,0,2022-09,2022Q3,$50K-$100K,0.0,0,Source values retained; derived fields added
+LN029,2023-02-01,2023,192100,36,0.079,A,Credit Card Refinance,75000,70-100K,0.251,Mortgage,5,CA,Current,172098,0,0,2023-02,2023Q1,$150K+,0.8958771473191046,0,Source values retained; derived fields added
+LN030,2023-02-23,2023,53000,36,0.061,A,Credit Card Refinance,54000,40-70K,0.2,Rent,3,FL,Fully Paid,0,0,0,2023-02,2023Q1,$50K-$100K,0.0,0,Source values retained; derived fields added
+LN031,2023-04-27,2023,159100,60,0.066,A,Debt Consolidation,100000,100K+,0.153,Rent,5,PA,Current,69093,0,0,2023-04,2023Q2,$150K+,0.4342740414833438,0,Source values retained; derived fields added
+LN032,2023-05-21,2023,69400,36,0.224,E,Credit Card Refinance,36000,Under 40K,0.159,Mortgage,8,CA,Current,38129,0,0,2023-05,2023Q2,$50K-$100K,0.5494092219020172,0,Source values retained; derived fields added
+LN033,2023-05-25,2023,51700,36,0.168,D,Credit Card Refinance,102000,100K+,0.162,Rent,3,PA,Fully Paid,0,0,0,2023-05,2023Q2,$50K-$100K,0.0,0,Source values retained; derived fields added
+LN034,2023-07-30,2023,52700,36,0.265,F,Debt Consolidation,57000,40-70K,0.104,Mortgage,9,OH,Current,35055,0,0,2023-07,2023Q3,$50K-$100K,0.6651802656546489,0,Source values retained; derived fields added
+LN035,2023-08-25,2023,38100,36,0.209,E,Car,55000,40-70K,0.157,Mortgage,4,OH,Fully Paid,0,0,0,2023-08,2023Q3,Under $50K,0.0,0,Source values retained; derived fields added
+LN036,2023-09-04,2023,28000,36,0.176,D,Other,35000,Under 40K,0.302,Rent,7,CA,Current,13168,0,0,2023-09,2023Q3,Under $50K,0.4702857142857143,0,Source values retained; derived fields added
+LN037,2023-09-11,2023,21700,36,0.284,G,Medical,30000,Under 40K,0.167,Rent,1,WA,Current,18363,0,0,2023-09,2023Q3,Under $50K,0.8462211981566821,0,Source values retained; derived fields added
+LN038,2023-09-21,2023,48100,60,0.148,C,Credit Card Refinance,117000,100K+,0.23,Mortgage,9,PA,Charged Off,28717,1,0,2023-09,2023Q3,Under $50K,0.597027027027027,1,Source values retained; derived fields added
+LN039,2023-10-24,2023,86600,36,0.154,C,Debt Consolidation,80000,70-100K,0.256,Own,2,OH,Current,43767,0,0,2023-10,2023Q4,$50K-$100K,0.5053926096997691,0,Source values retained; derived fields added
+LN040,2023-10-31,2023,75500,36,0.098,B,Other,118000,100K+,0.211,Own,7,FL,Current,50393,0,0,2023-10,2023Q4,$50K-$100K,0.6674569536423841,0,Source values retained; derived fields added
+LN041,2023-12-20,2023,140400,36,0.124,B,Credit Card Refinance,128000,100K+,0.02,Mortgage,2,GA,Current,54230,0,0,2023-12,2023Q4,$100K-$150K,0.3862535612535613,0,Source values retained; derived fields added
+LN042,2024-03-23,2024,87100,60,0.063,A,Debt Consolidation,32000,Under 40K,0.154,Mortgage,0,TX,Fully Paid,0,0,0,2024-03,2024Q1,$50K-$100K,0.0,0,Source values retained; derived fields added
+LN043,2024-06-19,2024,68700,60,0.177,D,Debt Consolidation,34000,Under 40K,0.219,Mortgage,3,WA,Current,22649,0,0,2024-06,2024Q2,$50K-$100K,0.3296797671033479,0,Source values retained; derived fields added
+LN044,2024-06-22,2024,39100,36,0.104,B,Debt Consolidation,40000,40-70K,0.171,Rent,7,CA,Current,29807,0,0,2024-06,2024Q2,Under $50K,0.7623273657289003,0,Source values retained; derived fields added
+LN045,2024-08-12,2024,19200,36,0.114,B,Credit Card Refinance,137000,100K+,0.126,Mortgage,8,OH,Current,8032,0,0,2024-08,2024Q3,Under $50K,0.4183333333333333,0,Source values retained; derived fields added
+LN046,2024-08-23,2024,113500,36,0.228,E,Major Purchase,76000,70-100K,0.156,Rent,2,NY,Current,53498,0,0,2024-08,2024Q3,$100K-$150K,0.4713480176211454,0,Source values retained; derived fields added
+LN047,2024-08-27,2024,56400,36,0.173,D,Debt Consolidation,83000,70-100K,0.101,Rent,2,GA,Current,34608,0,0,2024-08,2024Q3,$50K-$100K,0.6136170212765958,0,Source values retained; derived fields added
+LN048,2024-09-15,2024,75900,36,0.217,E,Credit Card Refinance,117000,100K+,0.232,Mortgage,5,NY,Current,60542,0,0,2024-09,2024Q3,$50K-$100K,0.7976548089591567,0,Source values retained; derived fields added
+LN049,2024-10-13,2024,114300,36,0.102,B,Home Improvement,49000,40-70K,0.237,Mortgage,6,IL,Fully Paid,0,0,0,2024-10,2024Q4,$100K-$150K,0.0,0,Source values retained; derived fields added
+LN050,2024-10-21,2024,87900,60,0.146,C,Home Improvement,105000,100K+,0.15,Own,6,NY,Current,59881,0,0,2024-10,2024Q4,$50K-$100K,0.6812400455062572,0,Source values retained; derived fields added
